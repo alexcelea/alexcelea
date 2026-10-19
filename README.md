@@ -1,6 +1,10 @@
 # Alexandru Celea
 
-Operations and systems at YMP Real Estate Management (Senior Manager, Asset Management Systems). Leaders hand me a plan; I build the processes, reporting and AI tools that make it run across a 3,800-unit, 2M sq ft portfolio. Not an engineer by training: I scope with the people doing the work, build with AI, and iterate until it sticks.
+Operator who builds. I was COO of a boutique Miami developer, where I built the operations from scratch across ~200 units, and before that I built and ran my own real estate investment company. Earlier, I led development and production at a film company in LA.
+
+Today I run the systems side of operations at a real estate property management company with a 3,800-unit, 2M sq ft portfolio. Leadership sets the plan; I build the processes, reporting and AI tools that make it run.
+
+Not an engineer by training: I scope with the people doing the work, build with AI, and iterate until it sticks. Side projects are where I try new tools and ideas before they reach the day job.
 
 ## What I've built
 
