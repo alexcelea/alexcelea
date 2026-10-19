@@ -1,8 +1,8 @@
 # Alexandru Celea
 
-Operator who builds. I was COO of a boutique Miami developer, where I built the operations from scratch across ~200 units, and before that I built and ran my own real estate investment company. Earlier, I led development and production at a film company in LA.
+Operator who builds. Today I run the systems side of operations at a real estate property management company with a 3,800-unit, 2M sq ft portfolio. I work with leadership to set the plan, then build the processes, reporting and AI tools that make it run.
 
-Today I run the systems side of operations at a real estate property management company with a 3,800-unit, 2M sq ft portfolio. Leadership sets the plan; I build the processes, reporting and AI tools that make it run.
+Previously, I was COO of a boutique Miami developer, where I built the operations from scratch across ~200 units, and before that I built and ran my own real estate investment company. Earlier, I led development and production at a film company in LA.
 
 Not an engineer by training: I scope with the people doing the work, build with AI, and iterate until it sticks. Side projects are where I try new tools and ideas before they reach the day job.
 
