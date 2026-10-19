@@ -28,10 +28,9 @@ Code is private because it runs on company data. Happy to walk through any of it
 
 | Project | What it does | Stack |
 |---|---|---|
-| Deal engine | Reads wholesaler deal blasts by email and text, dedupes properties, scores them against a buy box, checks county records for what actually sold, and pings me on Telegram. | TypeScript, Claude Agent SDK, Twenty CRM |
+| Real estate deal engine | Reads real estate deal blasts by email and text, dedupes properties, scores them against a buy box, checks county records for what actually sold, and pings me on Telegram. | TypeScript, Claude Agent SDK, Twenty CRM |
 | Call Dojo | Voice AI seller personas for practicing real estate cold calls. | Next.js, voice AI |
 | Roomie Score | AI tenant screening for coliving operators. | TypeScript |
-| App idea validator | Reusable pipeline that scores consumer app ideas on demand, competition, distribution and app-store risk. | Python, Claude |
 | ig-vision | Has Gemini actually watch a Reel, TikTok or Short and return a structured teardown. | JavaScript, Gemini |
 | Landing page engine | Renders unlimited AI-generated landing page variants from a single Next.js app. | Next.js |
 
